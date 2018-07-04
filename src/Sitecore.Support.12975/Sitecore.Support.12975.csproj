@@ -47,14 +47,14 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Feature.Composites, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Feature.Composites.3.7.0.547\lib\NET462\Sitecore.XA.Feature.Composites.dll</HintPath>
-    </Reference>
-    <Reference Include="Sitecore.XA.Foundation.Common">
-      <HintPath>..\packages\SXA90.Sitecore.XA.Foundation.Common.1.7.0\lib\Sitecore.XA.Foundation.Common.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Sitecore.XA.Feature.Composites.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.XA.Foundation.Presentation, Version=3.7.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sitecore.XA.Foundation.Presentation.3.7.0.547\lib\NET462\Sitecore.XA.Foundation.Presentation.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\lib\Sitecore.XA.Foundation.Presentation.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
